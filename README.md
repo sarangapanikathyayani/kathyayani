@@ -1,4 +1,4 @@
-[![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQC8vbTQA5LwicbSAA2A8I06EBXB_QsLBKPFLMXMDkWuQ&s)](https://github.com/sarangapanikathyayani)
+[![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQC8vbTQA5LwicbSAA2A8I06EBXB_QsLBKPFLMXMDkWuQ&s )](https://github.com/sarangapanikathyayani)
 <h1 align="center">Hi 👋, I'm Kathyayani Sarangapani</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://gifdb.com/images/high/umiko-ahagon-desktop-programming-eg5f8g2281ekfhde.webp">
